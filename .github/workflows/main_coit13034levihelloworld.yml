@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'COIT13034LeviHelloWorld'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FDC2ECBC293248F7A134C216A5B8A99C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C22EF1C234B48F1A510137DCB5C4913 }}
           package: '*.jar'
